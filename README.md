@@ -31,6 +31,7 @@ Under this method, the targeted organization may become aware of the ongoing rec
 
 ### Passive Intelligence Gathering
 This option is under discussion provided that there is an explicit demand for the gathering activities not to be detected by the target. In this regard, the pentester cannot use tools that send traffic to the targeted company neither from his host nor an “anonymous” one across the Internet. Not only will that be technically burdening but also the person who performs the pentest will have to substantiate his findings with whatever he can dig out from archived or stored information, which is at times not up to date and incorrect because it has been limited to inquiries collected from third parties.
+* **Spyse** Sybersecurity search engine that collects organization assets, web, technical & network data for cyber reconnaissance. https://spyse.com/
 * **linkScrape** A LinkedIn user/company enumeration tool. https://github.com/NickSanzotta/linkScrape
 * **FOCA** (Fingerprinting Organizations with Collected Archives) is a tool used mainly to find metadata and hidden information in the documents its scans. https://github.com/ElevenPaths/FOCA
 * **theHarvester** is a tool for gathering subdomain names, e-mail addresses, virtual
@@ -397,6 +398,7 @@ https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exerc
 * **True Demon (2015). The Hacker Ethos.** Available at https://books.google.bg/books?id=-xhPCwAAQBAJ&pg=PT180&lpg=PT180&dq=eavesdropping+information+gathering&source=bl&ots=wYqDq-XtpT&sig=uYOpP8XI9-IVgm_DJZbCWqIxgGI&hl=bg&sa=X&ved=0ahUKEwiqm-W4vKrNAhUDtBQKHZkoAus4ChDoAQgzMAI#v=onepage&q=eavesdropping%20information%20gathering&f=false (12/06/2016)
 * **Wing (2014). 15 Penetration Testing Tools-Open Source.** Available at http://securitywing.com/15-penetration-testing-tools-open-source/ (12/06/2016)
 * **Vines, R. (2016). Penetration testing reconnaissance — Footprinting, scanning and enumerating.** Available at http://searchitchannel.techtarget.com/tip/Penetration-testing-reconnaissance-Footprinting-scanning-and-enumerating (12/06/2016)
+* **Ethical Hacking From Scratch to Advanced Techniques** https://www.amazon.fr/Ethical-Hacking-Scratch-Advanced-Techniques-ebook/dp/B085G8XHB9
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
